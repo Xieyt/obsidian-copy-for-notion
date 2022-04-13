@@ -18,9 +18,9 @@
 
 
 ## TODO
-[ ] Copy markdown with image src.
-[ ] Give option in the context menu of obsidian.
-[ ] Copy till the area is selected.
+- [ ] Copy markdown with image src.
+- [ ] Give option in the context menu of obsidian.
+- [ ] Copy till the area is selected.
 
 ### How to use
 
